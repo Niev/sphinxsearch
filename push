@@ -1,6 +1,3 @@
 #!/bin/bash
 
 docker push niev/sphinxsearch
-docker push niev/sphinxsearch:2
-docker push niev/sphinxsearch:2.2
-docker push niev/sphinxsearch:2.2.10
